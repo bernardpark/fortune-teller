@@ -1,3 +1,5 @@
+api:
+  message: Hello World!
 fortune:
   fallbackFortune: Your future is bright: enjoy!
   fortuneServiceURL: http://fortune-service
